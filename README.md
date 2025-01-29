@@ -7,10 +7,6 @@
 
  
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my portfolio at to see some of the projects I've worked on.
-
-
 ### Connect with Me :
 <a href="https://www.linkedin.com/in/youssef-samet-842a36209/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Samet-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
